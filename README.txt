@@ -1,0 +1,1 @@
+Amplificador com realimentação parcial.
