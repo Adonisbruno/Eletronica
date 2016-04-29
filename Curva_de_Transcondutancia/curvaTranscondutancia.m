@@ -4,7 +4,7 @@ clc; clear all; close all;
 
 %valores baseado no JFET 2N5457
 vgsOff = -7;
-% gera 50 valores dentro do intervalo definido.
+% gera 100 valores dentro do intervalo definido.
 % para Vgs=0, Idss = 9mA.
 % para Vgs=VgsOff, Idss = 0.
 % por isso os pontos variam de 1 a Idss e de 1 a VgsOff.
