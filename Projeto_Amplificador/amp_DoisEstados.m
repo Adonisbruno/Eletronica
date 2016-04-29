@@ -1,5 +1,5 @@
 function [Vin1, Vout]=...
-    amp_realimentacao_parcial(freq,VCC,VBE1,VBE2,R11,R21,Re1,RE1,RC1,R12,R22,Re2,RE2,RC2,RL,VG,RG)
+    amp_DoisEstados(freq,VCC,VBE1,VBE2,R11,R21,Re1,RE1,RC1,R12,R22,Re2,RE2,RC2,RL,VG,RG)
 
 % analise DC
 % primeiro estagio
